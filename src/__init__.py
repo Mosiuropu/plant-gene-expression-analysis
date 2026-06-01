@@ -11,7 +11,7 @@ Modules:
     analysis       : Statistical analysis (PCA, differential expression, etc.)
     visualization  : Publication-quality figures
 
-Author: [Your Name]
+Author: Mosiur Rahman Apu
 Version: 1.0.0
 """
 

@@ -229,7 +229,10 @@ After running the pipeline, you will find in `results/figures/`:
 | `02_volcano_Heat_vs_Control.png` | DEGs under heat stress |
 | `02_volcano_Cold_vs_Control.png` | DEGs under cold stress |
 | `03_heatmap_Drought_vs_Control.png` | Expression heatmap of top DEGs |
-| `04_marker_expression.png` | Known stress marker gene expression | | `05_go_enrichment_*.png` | Enriched biological processes |
+| `04_marker_expression.png` | Known stress marker gene expression |
+| `05_go_enrichment_Drought_vs_Control.png` | GO enrichment — Drought vs Control |
+| `05_go_enrichment_Heat_vs_Control.png` | GO enrichment — Heat vs Control |
+| `05_go_enrichment_Cold_vs_Control.png` | GO enrichment — Cold vs Control |
 
 A complete **analysis report** is generated at `results/analysis_report.md`.
 
