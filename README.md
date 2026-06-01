@@ -98,7 +98,7 @@ plant-gene-expression-analysis/
 ```bash
 # 1. Clone the repository
 git clone https://github.com/Mosiuropu/plant-gene-expression-analysis-.git
-cd plant-gene-expression-analysis-
+cd plant-gene-expression-analysis
 
 # 2. Create a virtual environment (recommended)
 python -m venv venv
